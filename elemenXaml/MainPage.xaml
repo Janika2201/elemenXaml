@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="elemenXaml.MainPage"
+             Title="Nädal">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Timer" Clicked="Button_Clicked" BackgroundColor="Yellow"></Button>
+            <Button Text="webView" Clicked="Button_Clicked_1" BackgroundColor="Yellow"></Button>
+            <Button Text="TableView" Clicked="Button_Clicked_2" BackgroundColor="Yellow"></Button>
+            <Button Text="DatePicker" Clicked="Button_Clicked_3" BackgroundColor="Yellow"></Button>
+            <Button Text="Picker" Clicked="Button_Clicked_4" BackgroundColor="Yellow"></Button>
+            <Button Text="TimerPicker" Clicked="Button_Clicked_5" BackgroundColor="Yellow"></Button>
+            <Button Text="ListView" Clicked="Button_Clicked_6" BackgroundColor="Yellow"></Button>
+            
+        </StackLayout>
+        
+        
+    </ContentPage.Content>
+
+</ContentPage>

@@ -11,6 +11,13 @@
                     <x:String>C/C++</x:String>
                     <x:String>JavaScript</x:String>
                     <x:String>PHP</x:String>
+                    <x:String>Swift</x:String>
+                    <x:String>Go</x:String>
+                    <x:String>Python</x:String>
+                    <x:String>Java</x:String>
+                    <x:String>Kotlin</x:String>
+                    <x:String>Rust</x:String>
+                    
                 </Picker.Items>
             </Picker>
         </StackLayout>

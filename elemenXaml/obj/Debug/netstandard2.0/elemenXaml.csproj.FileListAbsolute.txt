@@ -18,3 +18,4 @@ C:\Users\opilane\source\repos\Valjataga\navigate\elemenXaml\elemenXaml\obj\Debug
 C:\Users\opilane\source\repos\Valjataga\navigate\elemenXaml\elemenXaml\obj\Debug\netstandard2.0\Picker.xaml.g.cs
 C:\Users\opilane\source\repos\Valjataga\navigate\elemenXaml\elemenXaml\obj\Debug\netstandard2.0\timerPicer.xaml.g.cs
 C:\Users\opilane\source\repos\Valjataga\navigate\elemenXaml\elemenXaml\obj\Debug\netstandard2.0\ListView.xaml.g.cs
+C:\Users\opilane\source\repos\Valjataga\navigate\elemenXaml\elemenXaml\obj\Debug\netstandard2.0\elemenXaml.csprojAssemblyReference.cache

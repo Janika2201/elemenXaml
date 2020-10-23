@@ -12,6 +12,7 @@ namespace elemenXaml
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ListView : ContentPage
     {
+
         public string[] Phones { get; set; }
         public ListView()
         {

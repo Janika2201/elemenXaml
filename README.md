@@ -1,2 +1,2 @@
 # elemenXaml
-![Иллюстрация к проекту](https://github.com/Janika2201/Forms-App/blob/main/foto.jpg)
+![Иллюстрация к проекту](https://github.com/Janika2201/elemenXaml/blob/main/foto.png)
